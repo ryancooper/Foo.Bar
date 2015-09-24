@@ -1,0 +1,4 @@
+Problem statement:
+
+Given a N*N grid(N < 20) filled with positive integers(all < 10) and an positive integer T(< 200), find a path from top left to bottom right that
+have a maximized path sum <= T. If there is no such a path, return -1
